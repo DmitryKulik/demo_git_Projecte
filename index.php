@@ -1,2 +1,2 @@
 <?php
-echo 'wewew';
+echo 'HEllo me die friend';
